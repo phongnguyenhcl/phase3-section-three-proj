@@ -1,4 +1,4 @@
-package com.simplilearn.phase2endproject;
+package com.phase3section3project;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;

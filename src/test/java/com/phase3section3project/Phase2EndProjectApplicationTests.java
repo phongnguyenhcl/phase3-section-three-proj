@@ -1,4 +1,4 @@
-package com.simplilearn.phase2endproject;
+package com.phase3section3project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
